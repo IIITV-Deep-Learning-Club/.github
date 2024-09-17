@@ -1,6 +1,6 @@
 # IIITV Deep Learning Club 📚
 
-![iiitvdlc_banner](https://github.com/user-attachments/assets/df0e1203-b4ed-49e8-989b-33d4e72d56e8)
+![iiitvdlc_banner](https://github.com/user-attachments/assets/b65d65ef-731a-4db0-8571-6279861be805)
 
 Welcome to the **IIIT V Deep Learning Club**, a community of passionate learners, researchers, and deep learning enthusiasts at **IIIT V**! This club is dedicated to collaborating on cutting-edge research, reading and analyzing important papers, and fostering a culture of intellectual exchange in the field of Deep Learning.
 
