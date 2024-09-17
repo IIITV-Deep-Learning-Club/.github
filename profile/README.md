@@ -1,4 +1,4 @@
-# IIITV Deep Learning Club
+# IIITV Deep Learning Club 📚
 
 ![iiitvdlc_banner](https://github.com/user-attachments/assets/df0e1203-b4ed-49e8-989b-33d4e72d56e8)
 
